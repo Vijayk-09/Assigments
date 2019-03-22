@@ -1,0 +1,9 @@
+package assignment;
+
+public class FireFoxDriver {
+	public static void main(String[] args) {
+		
+		FireFoxDriver driver=new FireFoxDriver();
+		driver.get("http;//google.com");
+	}
+}
